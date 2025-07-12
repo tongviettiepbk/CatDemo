@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "424090915042",
+    "project_id": "cat-ilde",
+    "storage_bucket": "cat-ilde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424090915042:ios:33610c58dfd92bc3e7cebb",
+        "android_client_info": {
+          "package_name": "com.zone.idle.cat"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1EwDKm8nfOvLa4tItBKFzsPGWsy8RH5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424090915042-02ofcj29b5r8u67rks27b1tke7cc0urr.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
